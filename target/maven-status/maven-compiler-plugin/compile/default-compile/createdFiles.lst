@@ -1,0 +1,5 @@
+com/example/models/User.class
+com/example/verticles/MainVerticle.class
+com/example/verticles/MessengerLauncher.class
+com/example/verticles/SenderVerticle.class
+com/example/verticles/UserHandlerVerticle.class
